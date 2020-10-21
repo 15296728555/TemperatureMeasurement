@@ -12,12 +12,13 @@ namespace Entity
         public PLCConnectData()
         {
             objMelsec = new Melsec(MelsecProtocolType.MCBinary);
-
+            listPLCGroup = new List<PLCGroup>();
         }
         public string Name { get; set; }
         public string IpAddress { get; set; }
         public int Port { get; set; }
         public bool IsConncet { get; set; } = false;
         public  Melsec objMelsec ;
+        public List<PLCGroup> listPLCGroup;
     }
 }

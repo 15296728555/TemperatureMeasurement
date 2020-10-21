@@ -13,4 +13,7 @@ namespace Entity
         public string LoginPwd { get; set; }
         public int Role { get; set; }
     }
+   
+
+
 }

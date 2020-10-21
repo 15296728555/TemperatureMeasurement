@@ -1,0 +1,20 @@
+
+异常时间：2020-10-13 14:12:07,691 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'dfd' 无效。
+   在 DAL.SQLHelper.GetDataSet(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 115
+   在 TemperatureMeasurement.FrmHighFrequency.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmHighFrequency.cs:行号 69
+ClientConnectionId:a0228e23-bc35-48f0-985d-524702709765
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-13 14:12:15,129 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'dfd' 无效。
+   在 DAL.SQLHelper.GetDataSet(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 115
+   在 TemperatureMeasurement.FrmHighFrequency.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmHighFrequency.cs:行号 69
+ClientConnectionId:a0228e23-bc35-48f0-985d-524702709765
+Error Number:207,State:1,Class:16

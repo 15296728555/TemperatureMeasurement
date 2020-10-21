@@ -25,7 +25,7 @@ namespace TemperatureMeasurement
             //SQLiteHelper.ConStr = "Data Source=" + Application.StartupPath + "\\DB\\JDT;Pooling=true;FaillfMissing=false";
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void BtnLogin_Click(object sender, EventArgs e)
         {
 
             if (txbLoginID.Text.Trim().Length == 0)
@@ -57,13 +57,10 @@ namespace TemperatureMeasurement
             }
             else
             {
-                DialogResult = DialogResult.OK;
+               
                 CommonMethods.objAdmins = objAdmins;
+                DialogResult = DialogResult.OK;
             }
-
-
-
-
 
         }
 

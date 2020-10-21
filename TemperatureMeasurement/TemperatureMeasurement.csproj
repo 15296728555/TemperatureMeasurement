@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,16 +49,28 @@
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bin\Debug\3rd\image\ico\SysIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>TemperatureMeasurement.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=2.0.9.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.9\lib\net45\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="NPOI">
       <HintPath>bin\Debug\3rd\NPOI.dll</HintPath>
     </Reference>
-    <Reference Include="SeeSharpTools.JY.GUI">
-      <HintPath>bin\Debug\3rd\SeeSharpTools.JY.GUI.dll</HintPath>
+    <Reference Include="SeeSharpTools.JY.GUI, Version=1.4.7.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\SeeSharpTools.JY.GUI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -60,11 +87,41 @@
   <ItemGroup>
     <Compile Include="CommonMethods.cs" />
     <Compile Include="DataGridViewStyle.cs" />
+    <Compile Include="FrmAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlarm.Designer.cs">
+      <DependentUpon>FrmAlarm.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDgvShow.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmDgvShow.Designer.cs">
       <DependentUpon>FrmDgvShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExportHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExportHistory.Designer.cs">
+      <DependentUpon>FrmExportHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHFTrend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHFTrend.Designer.cs">
+      <DependentUpon>FrmHFTrend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHighFrequency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHighFrequency.Designer.cs">
+      <DependentUpon>FrmHighFrequency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHistoryTrend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHistoryTrend.Designer.cs">
+      <DependentUpon>FrmHistoryTrend.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
@@ -90,17 +147,49 @@
     <Compile Include="FrmParameter.Designer.cs">
       <DependentUpon>FrmParameter.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmRealTrend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRealTrend.Designer.cs">
+      <DependentUpon>FrmRealTrend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRealTrendConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRealTrendConfig.Designer.cs">
+      <DependentUpon>FrmRealTrendConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrendConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrendConfig.Designer.cs">
+      <DependentUpon>FrmTrendConfig.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmValueShow.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmValueShow.Designer.cs">
       <DependentUpon>FrmValueShow.cs</DependentUpon>
     </Compile>
+    <Compile Include="LogHelper.cs" />
     <Compile Include="NiceFileFunction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerializeObjectToString.CS" />
+    <EmbeddedResource Include="FrmAlarm.resx">
+      <DependentUpon>FrmAlarm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmDgvShow.resx">
       <DependentUpon>FrmDgvShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExportHistory.resx">
+      <DependentUpon>FrmExportHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHighFrequency.resx">
+      <DependentUpon>FrmHighFrequency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHistoryTrend.resx">
+      <DependentUpon>FrmHistoryTrend.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
@@ -114,24 +203,37 @@
     <EmbeddedResource Include="FrmParameter.resx">
       <DependentUpon>FrmParameter.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmRealTrend.resx">
+      <DependentUpon>FrmRealTrend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRealTrendConfig.resx">
+      <DependentUpon>FrmRealTrendConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrendConfig.resx">
+      <DependentUpon>FrmTrendConfig.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmValueShow.resx">
       <DependentUpon>FrmValueShow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="app.config" />
+    <None Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\DataSources\Entity.AlarmInfo.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -149,25 +251,163 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\Close.png" />
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\ctl.png" />
+    <None Include="bin\Debug\3rd\image\ico\about.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\Max.png" />
+    <None Include="bin\Debug\3rd\image\ico\ATTACHED.ICO" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\MaxNormal.png" />
+    <None Include="bin\Debug\3rd\image\ico\BOOK02.ICO" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\Min.png" />
+    <None Include="bin\Debug\3rd\image\ico\BOOKS01.ICO" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Image1.bmp" />
+    <None Include="bin\Debug\3rd\image\ico\Cancel.ico" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\3rd\image\logo.png" />
+    <None Include="bin\Debug\3rd\image\ico\Close.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\CustomerOrder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\downLoad.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\key_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\lklLogin.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\lklLoginExit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\MngDowndown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\MngIncdown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\MngUpover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\Msg.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\MSGBOX03.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\open.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\people.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\Print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\PROPS.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\Purchase.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\Query.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\SysIco.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\TABLE.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\turn.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\UserLogin.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\UserPsw.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\保存.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\查询选择.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\打印.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\关闭.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\计算.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\取消.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\删除.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\上记录.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\首记录.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\搜索.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\尾记录.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\下记录.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\新增.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\ico\修改.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\error\error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\error\info.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\3rd\image\error\warning.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

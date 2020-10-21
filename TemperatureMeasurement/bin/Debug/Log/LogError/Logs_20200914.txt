@@ -1,0 +1,2260 @@
+
+异常时间：2020-09-14 13:17:29,025 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:30,787 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:32,871 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:34,788 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:36,803 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:38,798 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:40,790 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:42,791 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:44,788 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:46,795 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:48,809 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:50,783 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:52,798 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:54,796 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:56,815 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:17:58,818 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:00,797 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:21,401 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:22,837 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:24,839 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:26,893 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:28,864 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:30,852 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:32,853 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:34,846 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:36,929 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:38,858 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:40,841 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:42,845 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:44,863 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:46,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:48,851 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:50,848 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:52,851 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:54,865 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:56,898 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:18:58,911 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:00,865 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:02,842 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:04,886 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:06,871 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:08,866 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:10,979 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:12,844 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:14,854 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:16,854 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:18,852 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:20,840 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:22,851 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:24,846 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:26,892 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:28,837 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:30,856 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:32,844 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:34,850 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:36,828 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:38,842 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:40,872 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:42,849 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:44,836 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:46,848 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:48,838 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:50,841 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:52,881 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:54,861 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:56,831 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:19:58,846 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:00,849 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:02,835 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:04,832 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:06,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:08,832 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:10,873 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:12,873 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:14,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:16,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:18,879 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:20,850 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:22,877 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:24,868 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:26,830 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:28,830 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:30,859 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:32,856 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:34,832 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:36,852 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:38,851 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:40,791 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:42,832 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:44,834 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:46,916 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:48,842 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:50,846 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:52,829 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:54,848 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:56,833 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:20:58,843 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:00,859 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:02,825 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:04,842 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:06,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:08,847 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:10,840 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:12,853 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:14,844 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:16,892 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:18,856 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:20,898 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:22,830 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:24,856 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:26,870 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:28,814 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:30,811 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:32,852 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:34,845 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:36,857 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:38,902 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:40,845 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:42,825 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:44,870 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:46,866 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:48,823 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:21:50,944 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:896aaa3f-1283-47ca-8c24-2d2b83cba66f
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:04,572 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:06,557 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:08,506 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:10,750 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:12,535 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:14,504 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:16,516 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:18,507 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:20,554 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:22,588 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:24,560 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:26,513 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:28,512 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:30,500 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:32,500 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:34,540 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:36,501 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:38,501 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:40,520 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:42,519 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:44,501 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:46,507 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:48,515 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:50,528 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:52,533 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:54,505 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:56,500 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:22:58,501 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:00,511 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:02,529 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:04,513 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:06,531 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:aa39709e-6278-4080-a90b-9a934a8eb182
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:52,148 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:54,047 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:55,934 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:57,946 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:23:59,983 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:02,293 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:03,936 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:05,933 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:07,934 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:09,961 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:12,040 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:13,965 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:15,949 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:17,963 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:19,959 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:21,945 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:23,942 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:26,043 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:27,928 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:29,942 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:31,941 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:34,022 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:36,123 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:38,887 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:39,951 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:41,950 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:43,950 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:45,951 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:47,950 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:49,943 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:51,954 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:53,954 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:55,957 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:57,938 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:24:59,956 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:01,964 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:03,952 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:05,946 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:07,961 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:09,956 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:11,951 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:13,934 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:15,954 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:17,948 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:19,987 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:21,942 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:23,953 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:26,289 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:27,974 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:29,951 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:31,942 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:33,969 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:35,980 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:37,976 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:39,983 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:42,005 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:43,979 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:45,949 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:47,961 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:49,954 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:51,957 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:53,952 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:55,938 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:57,984 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:25:59,969 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:01,962 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:03,939 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:05,961 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:07,950 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:09,959 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15
+
+异常时间：2020-09-14 13:26:11,927 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): “.0”附近有语法错误。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 941
+ClientConnectionId:7647e1d2-90d6-44f4-884d-acc406d3c93e
+Error Number:102,State:1,Class:15

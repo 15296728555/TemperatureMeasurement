@@ -15,14 +15,13 @@ namespace DAL
   public static  class SQLHelper
     {
 
-        private static readonly string connString = "Server=.;DataBase=JDT;Uid=sa;Pwd=123456";
+        
+       
+
+        private static readonly string connString = ConfigurationManager.ConnectionStrings["connString"].ToString();
 
 
-        //private static readonly string connString =
-        //    ConfigurationManager.ConnectionStrings["connString"].ToString();
 
-        //private static readonly string connString =
-        //    Common.StringSecurity.DESDecrypt(ConfigurationManager.ConnectionStrings["connString"].ToString());
 
         /// <summary>
         /// 执行增、删、改（insert/update/delete）
@@ -163,6 +162,73 @@ namespace DAL
         {
             return Convert.ToDateTime(GetSingleResult("select getdate()"));
         }
+
+
+        #region 【1】通用增删改操作 （普通格式化SQL语句和带参数SQL语句）（正式使用）
+
+        /// <summary>
+        /// 执行通用的增、删、改操作
+        /// </summary>
+        /// <param name="cmdText">sql语句或存储过程名称</param>
+        /// <param name="param">参数数组</param>
+        /// <param name="isProcedure">是否是存储过程</param>
+        /// <returns>返回受影响的行数</returns>
+        public static int ExecuteNonQuery(string cmdText, SqlParameter[] param = null, bool isProcedure = false)
+        {
+            SqlConnection conn = new SqlConnection(connString);
+            SqlCommand cmd = new SqlCommand(cmdText, conn);
+            try
+            {
+                conn.Open();
+                if (param != null)
+                {
+                    cmd.Parameters.AddRange(param);
+                }
+                if (isProcedure)
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;//这个枚举的设置表示当前cmdText是存储过程名称
+                }
+                return cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                //如果有必要可以在这个的记录日志....
+
+
+                //注意：我们通用的数据访问类是“底层”地方方法，我们捕获到异常，必须还得告诉调用者具体的异常。
+                string errorMsge = "调用ExecuteNonQuery方法发生异常，具体异常信息：" + ex.Message;
+
+                // throw ex;  //可以直接把ex对象跑出去，也可以做二次封装
+
+                throw new Exception(errorMsge);
+            }
+            finally   //表示前面不管是否发生异常，都会执行的代码段
+            {
+                conn.Close();
+            }
+
+
+
+
+            #endregion
+
+
+
+        }
+
+
     }
+
+
+
+
+
+
+
+
+
+
+
+
 }
 

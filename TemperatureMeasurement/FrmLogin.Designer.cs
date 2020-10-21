@@ -28,8 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmLogin));
             this.btnExit = new System.Windows.Forms.Button();
-            this.btnLogin = new System.Windows.Forms.Button();
+            this.BtnLogin = new System.Windows.Forms.Button();
             this.txbLoginPwd = new System.Windows.Forms.TextBox();
             this.txbLoginID = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -46,15 +47,15 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // btnLogin
+            // BtnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(202, 141);
-            this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(79, 28);
-            this.btnLogin.TabIndex = 16;
-            this.btnLogin.Text = "登录";
-            this.btnLogin.UseVisualStyleBackColor = true;
-            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            this.BtnLogin.Location = new System.Drawing.Point(202, 141);
+            this.BtnLogin.Name = "BtnLogin";
+            this.BtnLogin.Size = new System.Drawing.Size(79, 28);
+            this.BtnLogin.TabIndex = 16;
+            this.BtnLogin.Text = "登录";
+            this.BtnLogin.UseVisualStyleBackColor = true;
+            this.BtnLogin.Click += new System.EventHandler(this.BtnLogin_Click);
             // 
             // txbLoginPwd
             // 
@@ -71,7 +72,7 @@
             this.txbLoginID.Name = "txbLoginID";
             this.txbLoginID.Size = new System.Drawing.Size(138, 21);
             this.txbLoginID.TabIndex = 14;
-            this.txbLoginID.Text = "1000";
+            this.txbLoginID.Text = "1001";
             // 
             // label2
             // 
@@ -99,11 +100,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(514, 285);
             this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.btnLogin);
+            this.Controls.Add(this.BtnLogin);
             this.Controls.Add(this.txbLoginPwd);
             this.Controls.Add(this.txbLoginID);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmLogin";
             this.Text = "FrmLogin";
             this.ResumeLayout(false);
@@ -114,7 +116,7 @@
         #endregion
 
         private System.Windows.Forms.Button btnExit;
-        private System.Windows.Forms.Button btnLogin;
+        private System.Windows.Forms.Button BtnLogin;
         private System.Windows.Forms.TextBox txbLoginPwd;
         private System.Windows.Forms.TextBox txbLoginID;
         private System.Windows.Forms.Label label2;

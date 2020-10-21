@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Entity
+﻿namespace Entity
 {
     public class Variable
     {
@@ -14,6 +9,9 @@ namespace Entity
         public int ByteLength { get; set; }
         public VarType DateType { get; set; }
         public string Description { get; set; }
+        public bool TrendEnable { get; set; }
+        public Alarm alarm = new Alarm();
+        public bool ArchiveEnable { get; set; }
     }
 
     public enum VarType

@@ -1,0 +1,33 @@
+
+异常时间：2020-09-29 09:53:27,219 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'height' 无效。
+   在 DAL.SQLHelper.GetReader(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 93
+   在 DAL.TempService.GetTempValues(String start, String end, String formula, String height) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 36
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 57
+ClientConnectionId:6f1fbf2f-c65a-41d7-b2a3-1575997672f0
+Error Number:207,State:1,Class:16
+
+异常时间：2020-09-29 10:03:07,907 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'height' 无效。
+   在 DAL.SQLHelper.GetReader(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 93
+   在 DAL.TempService.GetTempValues(String start, String end, String formula, String height) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 45
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 61
+ClientConnectionId:e8e24a20-b2da-4615-8ea5-3321a5d072ad
+Error Number:207,State:1,Class:16
+
+异常时间：2020-09-29 10:04:24,333 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.FormatException: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。
+   在 System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   在 System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   在 System.String.Format(String format, Object arg0, Object arg1)
+   在 DAL.TempService.GetTempValues(String start, String end, String formula, String height) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 32
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 61

@@ -74,8 +74,6 @@
             this.jyTextShow22 = new xktControl.JYTextShow();
             this.label23 = new System.Windows.Forms.Label();
             this.jyTextShow23 = new xktControl.JYTextShow();
-            this.label24 = new System.Windows.Forms.Label();
-            this.jyTextShow24 = new xktControl.JYTextShow();
             this.label25 = new System.Windows.Forms.Label();
             this.jyTextShow25 = new xktControl.JYTextShow();
             this.label26 = new System.Windows.Forms.Label();
@@ -92,10 +90,16 @@
             this.jyTextShow31 = new xktControl.JYTextShow();
             this.label32 = new System.Windows.Forms.Label();
             this.jyTextShow32 = new xktControl.JYTextShow();
-            this.jyTextShow33 = new xktControl.JYTextShow();
+            this.label24 = new System.Windows.Forms.Label();
+            this.jyTextShow24 = new xktControl.JYTextShow();
             this.label33 = new System.Windows.Forms.Label();
+            this.jyTextShow33 = new xktControl.JYTextShow();
             this.label34 = new System.Windows.Forms.Label();
             this.jyTextShow34 = new xktControl.JYTextShow();
+            this.jyTextShow35 = new xktControl.JYTextShow();
+            this.label35 = new System.Windows.Forms.Label();
+            this.jyTextShow36 = new xktControl.JYTextShow();
+            this.label36 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // jyTextShow1
@@ -561,7 +565,7 @@
             // label21
             // 
             this.label21.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label21.Location = new System.Drawing.Point(664, 567);
+            this.label21.Location = new System.Drawing.Point(664, 501);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(125, 43);
             this.label21.TabIndex = 54;
@@ -572,7 +576,7 @@
             // jyTextShow21
             // 
             this.jyTextShow21.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow21.Location = new System.Drawing.Point(538, 567);
+            this.jyTextShow21.Location = new System.Drawing.Point(538, 501);
             this.jyTextShow21.Name = "jyTextShow21";
             this.jyTextShow21.Size = new System.Drawing.Size(120, 43);
             this.jyTextShow21.TabIndex = 53;
@@ -584,7 +588,7 @@
             // label22
             // 
             this.label22.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label22.Location = new System.Drawing.Point(664, 500);
+            this.label22.Location = new System.Drawing.Point(664, 434);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(125, 43);
             this.label22.TabIndex = 52;
@@ -595,7 +599,7 @@
             // jyTextShow22
             // 
             this.jyTextShow22.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow22.Location = new System.Drawing.Point(538, 500);
+            this.jyTextShow22.Location = new System.Drawing.Point(538, 434);
             this.jyTextShow22.Name = "jyTextShow22";
             this.jyTextShow22.Size = new System.Drawing.Size(120, 43);
             this.jyTextShow22.TabIndex = 51;
@@ -607,7 +611,7 @@
             // label23
             // 
             this.label23.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label23.Location = new System.Drawing.Point(664, 428);
+            this.label23.Location = new System.Drawing.Point(664, 362);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(125, 43);
             this.label23.TabIndex = 50;
@@ -618,7 +622,7 @@
             // jyTextShow23
             // 
             this.jyTextShow23.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow23.Location = new System.Drawing.Point(538, 428);
+            this.jyTextShow23.Location = new System.Drawing.Point(538, 362);
             this.jyTextShow23.Name = "jyTextShow23";
             this.jyTextShow23.Size = new System.Drawing.Size(120, 43);
             this.jyTextShow23.TabIndex = 49;
@@ -626,29 +630,6 @@
             this.jyTextShow23.TextScale = 0.7F;
             this.jyTextShow23.Unit = "A";
             this.jyTextShow23.VarName = null;
-            // 
-            // label24
-            // 
-            this.label24.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label24.Location = new System.Drawing.Point(665, 361);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(125, 43);
-            this.label24.TabIndex = 48;
-            this.label24.Tag = "";
-            this.label24.Text = "Q12模具温度";
-            this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // jyTextShow24
-            // 
-            this.jyTextShow24.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow24.Location = new System.Drawing.Point(539, 361);
-            this.jyTextShow24.Name = "jyTextShow24";
-            this.jyTextShow24.Size = new System.Drawing.Size(120, 43);
-            this.jyTextShow24.TabIndex = 47;
-            this.jyTextShow24.Tag = "Q12MoldsTempPv";
-            this.jyTextShow24.TextScale = 0.7F;
-            this.jyTextShow24.Unit = "℃";
-            this.jyTextShow24.VarName = null;
             // 
             // label25
             // 
@@ -722,7 +703,7 @@
             // label28
             // 
             this.label28.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label28.Location = new System.Drawing.Point(952, 294);
+            this.label28.Location = new System.Drawing.Point(951, 18);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(125, 43);
             this.label28.TabIndex = 64;
@@ -733,7 +714,7 @@
             // jyTextShow28
             // 
             this.jyTextShow28.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow28.Location = new System.Drawing.Point(816, 294);
+            this.jyTextShow28.Location = new System.Drawing.Point(815, 18);
             this.jyTextShow28.Name = "jyTextShow28";
             this.jyTextShow28.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow28.TabIndex = 63;
@@ -744,7 +725,7 @@
             // label29
             // 
             this.label29.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label29.Location = new System.Drawing.Point(952, 224);
+            this.label29.Location = new System.Drawing.Point(951, 291);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(125, 43);
             this.label29.TabIndex = 62;
@@ -755,18 +736,18 @@
             // jyTextShow29
             // 
             this.jyTextShow29.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow29.Location = new System.Drawing.Point(816, 224);
+            this.jyTextShow29.Location = new System.Drawing.Point(815, 291);
             this.jyTextShow29.Name = "jyTextShow29";
             this.jyTextShow29.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow29.TabIndex = 61;
             this.jyTextShow29.Tag = "CoolingWaterFlowPv";
-            this.jyTextShow29.Unit = "℃";
+            this.jyTextShow29.Unit = "M3/H";
             this.jyTextShow29.VarName = null;
             // 
             // label30
             // 
             this.label30.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label30.Location = new System.Drawing.Point(952, 157);
+            this.label30.Location = new System.Drawing.Point(951, 224);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(125, 43);
             this.label30.TabIndex = 60;
@@ -777,7 +758,7 @@
             // jyTextShow30
             // 
             this.jyTextShow30.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow30.Location = new System.Drawing.Point(816, 157);
+            this.jyTextShow30.Location = new System.Drawing.Point(815, 224);
             this.jyTextShow30.Name = "jyTextShow30";
             this.jyTextShow30.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow30.TabIndex = 59;
@@ -788,7 +769,7 @@
             // label31
             // 
             this.label31.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label31.Location = new System.Drawing.Point(952, 85);
+            this.label31.Location = new System.Drawing.Point(951, 152);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(125, 43);
             this.label31.TabIndex = 58;
@@ -799,7 +780,7 @@
             // jyTextShow31
             // 
             this.jyTextShow31.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow31.Location = new System.Drawing.Point(816, 85);
+            this.jyTextShow31.Location = new System.Drawing.Point(815, 152);
             this.jyTextShow31.Name = "jyTextShow31";
             this.jyTextShow31.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow31.TabIndex = 57;
@@ -810,7 +791,7 @@
             // label32
             // 
             this.label32.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label32.Location = new System.Drawing.Point(952, 18);
+            this.label32.Location = new System.Drawing.Point(951, 85);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(125, 43);
             this.label32.TabIndex = 56;
@@ -821,7 +802,7 @@
             // jyTextShow32
             // 
             this.jyTextShow32.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow32.Location = new System.Drawing.Point(816, 18);
+            this.jyTextShow32.Location = new System.Drawing.Point(815, 85);
             this.jyTextShow32.Name = "jyTextShow32";
             this.jyTextShow32.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow32.TabIndex = 55;
@@ -829,57 +810,133 @@
             this.jyTextShow32.Unit = "℃";
             this.jyTextShow32.VarName = null;
             // 
-            // jyTextShow33
+            // label24
             // 
-            this.jyTextShow33.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow33.Location = new System.Drawing.Point(816, 361);
-            this.jyTextShow33.Name = "jyTextShow33";
-            this.jyTextShow33.Size = new System.Drawing.Size(117, 43);
-            this.jyTextShow33.TabIndex = 65;
-            this.jyTextShow33.Tag = "writeMark";
-            this.jyTextShow33.Unit = "℃";
-            this.jyTextShow33.VarName = null;
+            this.label24.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label24.Location = new System.Drawing.Point(674, 565);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(125, 43);
+            this.label24.TabIndex = 66;
+            this.label24.Tag = "";
+            this.label24.Text = "Q12模具温度";
+            this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // jyTextShow24
+            // 
+            this.jyTextShow24.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.jyTextShow24.Location = new System.Drawing.Point(538, 565);
+            this.jyTextShow24.Name = "jyTextShow24";
+            this.jyTextShow24.Size = new System.Drawing.Size(117, 43);
+            this.jyTextShow24.TabIndex = 65;
+            this.jyTextShow24.Tag = "Q12MoldsTempPv";
+            this.jyTextShow24.Unit = "℃";
+            this.jyTextShow24.VarName = null;
             // 
             // label33
             // 
             this.label33.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label33.Location = new System.Drawing.Point(952, 356);
+            this.label33.Location = new System.Drawing.Point(951, 429);
             this.label33.Name = "label33";
             this.label33.Size = new System.Drawing.Size(125, 43);
-            this.label33.TabIndex = 64;
+            this.label33.TabIndex = 70;
             this.label33.Tag = "";
-            this.label33.Text = "插入数据库标志位";
+            this.label33.Text = "加工节拍";
             this.label33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // jyTextShow33
+            // 
+            this.jyTextShow33.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.jyTextShow33.Location = new System.Drawing.Point(815, 429);
+            this.jyTextShow33.Name = "jyTextShow33";
+            this.jyTextShow33.Size = new System.Drawing.Size(117, 43);
+            this.jyTextShow33.TabIndex = 69;
+            this.jyTextShow33.Tag = "RunTime";
+            this.jyTextShow33.Unit = "S";
+            this.jyTextShow33.VarName = null;
             // 
             // label34
             // 
-            this.label34.Font = new System.Drawing.Font("宋体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label34.Location = new System.Drawing.Point(821, 531);
+            this.label34.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label34.Location = new System.Drawing.Point(951, 362);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(94, 54);
-            this.label34.TabIndex = 66;
+            this.label34.Size = new System.Drawing.Size(125, 43);
+            this.label34.TabIndex = 68;
+            this.label34.Tag = "";
+            this.label34.Text = "高度记录";
             this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // jyTextShow34
             // 
             this.jyTextShow34.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.jyTextShow34.Location = new System.Drawing.Point(816, 428);
+            this.jyTextShow34.Location = new System.Drawing.Point(815, 362);
             this.jyTextShow34.Name = "jyTextShow34";
             this.jyTextShow34.Size = new System.Drawing.Size(117, 43);
             this.jyTextShow34.TabIndex = 67;
-            this.jyTextShow34.Tag = "year";
-            this.jyTextShow34.Unit = "℃";
+            this.jyTextShow34.Tag = "TravelHeight";
+            this.jyTextShow34.Unit = "MM";
             this.jyTextShow34.VarName = null;
+            // 
+            // jyTextShow35
+            // 
+            this.jyTextShow35.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.jyTextShow35.Location = new System.Drawing.Point(815, 495);
+            this.jyTextShow35.Name = "jyTextShow35";
+            this.jyTextShow35.Size = new System.Drawing.Size(117, 43);
+            this.jyTextShow35.TabIndex = 71;
+            this.jyTextShow35.Tag = "RunFinish";
+            this.jyTextShow35.Unit = "";
+            this.jyTextShow35.VarName = null;
+            this.jyTextShow35.VarValue = "0";
+            // 
+            // label35
+            // 
+            this.label35.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label35.Location = new System.Drawing.Point(960, 495);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(125, 43);
+            this.label35.TabIndex = 72;
+            this.label35.Tag = "";
+            this.label35.Text = "一次运行完成";
+            this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // jyTextShow36
+            // 
+            this.jyTextShow36.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.jyTextShow36.Location = new System.Drawing.Point(815, 565);
+            this.jyTextShow36.Name = "jyTextShow36";
+            this.jyTextShow36.Size = new System.Drawing.Size(117, 43);
+            this.jyTextShow36.TabIndex = 73;
+            this.jyTextShow36.Tag = "HFRead";
+            this.jyTextShow36.Unit = "";
+            this.jyTextShow36.VarName = null;
+            this.jyTextShow36.VarValue = "0";
+            // 
+            // label36
+            // 
+            this.label36.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label36.Location = new System.Drawing.Point(960, 567);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(125, 43);
+            this.label36.TabIndex = 74;
+            this.label36.Tag = "";
+            this.label36.Text = "高频读取";
+            this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // FrmValueShow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1133, 634);
-            this.Controls.Add(this.jyTextShow34);
-            this.Controls.Add(this.label34);
-            this.Controls.Add(this.jyTextShow33);
+            this.Controls.Add(this.label36);
+            this.Controls.Add(this.jyTextShow36);
+            this.Controls.Add(this.label35);
+            this.Controls.Add(this.jyTextShow35);
             this.Controls.Add(this.label33);
+            this.Controls.Add(this.jyTextShow33);
+            this.Controls.Add(this.label34);
+            this.Controls.Add(this.jyTextShow34);
+            this.Controls.Add(this.label24);
+            this.Controls.Add(this.jyTextShow24);
             this.Controls.Add(this.label28);
             this.Controls.Add(this.jyTextShow28);
             this.Controls.Add(this.label29);
@@ -896,8 +953,6 @@
             this.Controls.Add(this.jyTextShow22);
             this.Controls.Add(this.label23);
             this.Controls.Add(this.jyTextShow23);
-            this.Controls.Add(this.label24);
-            this.Controls.Add(this.jyTextShow24);
             this.Controls.Add(this.label25);
             this.Controls.Add(this.jyTextShow25);
             this.Controls.Add(this.label26);
@@ -999,8 +1054,6 @@
         private xktControl.JYTextShow jyTextShow22;
         private System.Windows.Forms.Label label23;
         private xktControl.JYTextShow jyTextShow23;
-        private System.Windows.Forms.Label label24;
-        private xktControl.JYTextShow jyTextShow24;
         private System.Windows.Forms.Label label25;
         private xktControl.JYTextShow jyTextShow25;
         private System.Windows.Forms.Label label26;
@@ -1017,9 +1070,15 @@
         private xktControl.JYTextShow jyTextShow31;
         private System.Windows.Forms.Label label32;
         private xktControl.JYTextShow jyTextShow32;
-        private xktControl.JYTextShow jyTextShow33;
+        private System.Windows.Forms.Label label24;
+        private xktControl.JYTextShow jyTextShow24;
         private System.Windows.Forms.Label label33;
+        private xktControl.JYTextShow jyTextShow33;
         private System.Windows.Forms.Label label34;
         private xktControl.JYTextShow jyTextShow34;
+        private xktControl.JYTextShow jyTextShow35;
+        private System.Windows.Forms.Label label35;
+        private xktControl.JYTextShow jyTextShow36;
+        private System.Windows.Forms.Label label36;
     }
 }

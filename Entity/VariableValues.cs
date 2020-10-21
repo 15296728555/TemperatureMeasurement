@@ -42,6 +42,12 @@ namespace Entity
 		public float CoolingWaterFlowPv { get; set; }
 		public float CoolingWaterTmepPv { get; set; }
 		public string InsertTime { get; set; }
+		public string Formula { get; set; }
+		public float TravelHeight { get; set; }
+		public float RunTime { get; set; }
+
+
+
 
 	}
 }

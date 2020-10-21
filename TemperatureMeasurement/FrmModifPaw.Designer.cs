@@ -96,6 +96,8 @@
             // 
             // btnModif
             // 
+            this.btnModif.Image = global::TemperatureMeasurement.Properties.Resources.保存;
+            this.btnModif.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnModif.Location = new System.Drawing.Point(132, 199);
             this.btnModif.Name = "btnModif";
             this.btnModif.Size = new System.Drawing.Size(90, 30);
@@ -106,6 +108,8 @@
             // 
             // btnExit
             // 
+            this.btnExit.Image = global::TemperatureMeasurement.Properties.Resources.取消;
+            this.btnExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnExit.Location = new System.Drawing.Point(263, 199);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(90, 30);

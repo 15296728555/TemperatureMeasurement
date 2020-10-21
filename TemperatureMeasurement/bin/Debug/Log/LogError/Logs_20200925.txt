@@ -1,0 +1,45 @@
+
+异常时间：2020-09-25 13:20:52,877 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.String.System.IConvertible.ToSingle(IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 950
+
+异常时间：2020-09-25 13:34:38,864 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.String.System.IConvertible.ToSingle(IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 950
+
+异常时间：2020-09-25 13:45:06,267 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToSingle(IFormatProvider provider)
+   在 DAL.TempService.GetTempValues(String start, String end, String formula) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 40
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 51
+
+异常时间：2020-09-25 13:53:10,276 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToSingle(IFormatProvider provider)
+   在 DAL.TempService.GetTempValues(String start, String end, String formula) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 40
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 51
+
+异常时间：2020-09-25 13:58:36,929 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+读取数据库失败 
+ System.InvalidCastException: 对象不能从 DBNull 转换为其他类型。
+   在 System.DBNull.System.IConvertible.ToSingle(IFormatProvider provider)
+   在 DAL.TempService.GetTempValues(String start, String end, String formula) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\TempService.cs:行号 40
+   在 TemperatureMeasurement.FrmDgvShow.QueryTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmDgvShow.cs:行号 51

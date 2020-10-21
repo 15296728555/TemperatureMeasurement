@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DAL;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -17,22 +18,36 @@ namespace TemperatureMeasurement
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new FrmMain());
+           CommonMethods. IsServer=bool.Parse ( new IniConfigHelper().ReadIniData("C/S选择", "Server", "", CommonMethods.FilePath)); 
             string ProcessName = Process.GetCurrentProcess().ProcessName;
-            if (Process.GetProcessesByName(ProcessName).Length > 1)
+            if (CommonMethods.IsServer)
             {
-                MessageBox.Show("系统已运行", "系统运行", MessageBoxButtons.OK);
-                return;
+                LogHelper.WriteLog("登录系统");
+                Application.Run(new FrmMain());
+
             }
             else
             {
-                FrmLogin objFrmLogin = new FrmLogin();
-                objFrmLogin.TopMost = true;
-                DialogResult dr = objFrmLogin.ShowDialog();
-                if (dr == DialogResult.OK)
+                if (Process.GetProcessesByName(ProcessName).Length > 1)
                 {
-                    Application.Run(new FrmMain());
+                    MessageBox.Show("系统已运行", "系统运行", MessageBoxButtons.OK);
+                    return;
                 }
+                else
+                {
+                    FrmLogin objFrmLogin = new FrmLogin();
+                    objFrmLogin.TopMost = true;
+                    DialogResult dr = objFrmLogin.ShowDialog();
+                    if (dr == DialogResult.OK)
+                    {
+                        LogHelper.WriteLog($"{ CommonMethods.objAdmins.LoginName} 登录系统");
+                        Application.Run(new FrmMain());
+                    }
+                }
+
             }
+
+          
 
 
         }

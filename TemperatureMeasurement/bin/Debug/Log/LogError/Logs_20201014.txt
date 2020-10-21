@@ -1,0 +1,703 @@
+
+异常时间：2020-10-14 15:16:39,878 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 969
+ClientConnectionId:52a051da-5ed4-4828-bfbf-85b6bef11163
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:17:28,787 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 969
+ClientConnectionId:52a051da-5ed4-4828-bfbf-85b6bef11163
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:18:25,283 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 969
+ClientConnectionId:52a051da-5ed4-4828-bfbf-85b6bef11163
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:20:06,586 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 970
+ClientConnectionId:4e5fcff6-e552-4750-986d-d83ed94cfd98
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:21:01,026 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 970
+ClientConnectionId:4e5fcff6-e552-4750-986d-d83ed94cfd98
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:21:01,130 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:01,455 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:01,952 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:02,461 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:02,964 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:03,452 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:03,966 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:04,456 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:04,957 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:05,465 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:05,952 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:06,462 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:56,526 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 970
+ClientConnectionId:4e5fcff6-e552-4750-986d-d83ed94cfd98
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:21:56,594 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:56,952 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:57,444 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:57,944 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:58,439 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:58,950 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:59,477 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:21:59,957 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:00,447 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:00,956 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:52,521 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Data.SqlClient.SqlException (0x80131904): 列名 'RealRunTime' 无效。
+列名 'HighFrequencyRunTime' 无效。
+列名 'HighFrequencyArrivaltime' 无效。
+列名 'RelativeHeight' 无效。
+   在 DAL.SQLHelper.Update(String sql) 位置 D:\云达软件项目\TemperatureMeasurement\DAL\SQLHelper.cs:行号 43
+   在 TemperatureMeasurement.FrmMain.UpdataTemp() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 970
+ClientConnectionId:4e5fcff6-e552-4750-986d-d83ed94cfd98
+Error Number:207,State:1,Class:16
+
+异常时间：2020-10-14 15:22:52,588 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:52,997 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:53,479 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:53,980 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:54,442 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:54,954 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:55,460 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:55,975 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:56,455 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:56,946 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:57,517 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:57,956 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:22:58,486 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.ThrowHelper.ThrowKeyNotFoundException()
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1034
+
+异常时间：2020-10-14 15:48:13,833 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:14,301 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:14,798 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:15,291 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:15,801 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:16,296 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:16,796 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:17,314 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:17,796 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:18,297 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:18,792 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:19,297 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:19,794 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:20,298 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:20,797 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:21,297 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:21,800 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:22,291 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:22,797 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:23,298 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:23,797 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:24,300 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:33,219 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:34,017 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:34,880 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:35,462 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:36,129 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:36,751 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:37,249 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:37,461 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:37,872 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:38,075 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032
+
+异常时间：2020-10-14 15:48:38,662 [1] 
+异常级别：ERROR 
+异 常 类：logerror [(null)] 
+写入数据库失败 
+ System.FormatException: 该字符串未被识别为有效的 DateTime。
+   在 System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   在 TemperatureMeasurement.FrmMain.PLCIntToDataTime() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 598
+   在 TemperatureMeasurement.FrmMain.InsertHighFreData() 位置 D:\云达软件项目\TemperatureMeasurement\TemperatureMeasurement\FrmMain.cs:行号 1032

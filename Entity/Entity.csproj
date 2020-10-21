@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alarm.cs" />
+    <Compile Include="AlarmInfo.cs" />
     <Compile Include="PLCConnectData.cs" />
     <Compile Include="PLCGroup.cs" />
     <Compile Include="SysAdmins.cs" />

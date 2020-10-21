@@ -27,13 +27,9 @@ namespace TemperatureMeasurement
 
 
 
-
-
-
-
-
         private void btnExit_Click(object sender, EventArgs e)
         {
+           
             this.Close();
         }
 
@@ -41,7 +37,7 @@ namespace TemperatureMeasurement
         {
             //string sql = $"select loginpwd,loginname from sysadmins where loginname='{txbOldLoginPwd.Text.Trim() }'  and  loginpwd='{txbModifPaw.Text.Trim()}'";
          
-            string sqlModif = $" update  SysAdmins set LoginPwd='{txbModifPaw.Text.Trim()}'  where  LoginName='{txbLoginUser.Text.Trim()}'";
+           
 
 
             if (txbOldLoginPwd.Text.Trim().Length<6&&txbModifPaw.Text.Trim().Length<6)
@@ -62,13 +58,14 @@ namespace TemperatureMeasurement
                 return;
 
             }
-
+            string sqlModif = $" update  SysAdmins set LoginPwd='{txbModifPaw.Text.Trim()}'  where  LoginName='{txbLoginUser.Text.Trim()}'";
             try
             {
 
                 if (SQLHelper.Update(sqlModif) ==1)
                 {
                     MessageBox.Show("密码修改成功，请妥善保管", "提示");
+                    LogHelper.WriteLog($" {CommonMethods.objAdmins.LoginName}修改密码成功");
                     CommonMethods.objAdmins.LoginPwd = txbModifPaw.Text.Trim();
                     this.Close();
                 }
@@ -78,8 +75,9 @@ namespace TemperatureMeasurement
             }
             catch (Exception ex)
             {
-
+                LogHelper.WriteLog("修改密码失败", ex);
                 MessageBox.Show(ex.Message, "错误提示");
+
             }
             
            

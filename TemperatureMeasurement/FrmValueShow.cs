@@ -29,14 +29,14 @@ namespace TemperatureMeasurement
         private void MyTime_Tick(object sender, EventArgs e)
         {
             UpdateUI(this);
-            label34.Text= CommonMethods.CurrentPLCValue["TrayCoding"].ToString();
+          
         }
 
         private void UpdateUI(Control ct)
         {
             foreach (Control ctl in ct.Controls)
             {
-                if(ctl is  xktControl.JYTextShow ts)
+                if (ctl is xktControl.JYTextShow ts)
                 {
                     if (ts.Tag != null)
                         ts.VarValue = CommonMethods.CurrentPLCValue[ts.Tag.ToString()].ToString();
@@ -47,6 +47,6 @@ namespace TemperatureMeasurement
 
         }
 
-       
+  
     }
 }
